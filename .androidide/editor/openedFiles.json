@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal1/app/src/main/java/com/example/aifinal1/PublicInterface.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 30,
+          "line": 1
+        },
+        "start": {
+          "column": 0,
+          "index": 30,
+          "line": 1
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal1/app/src/main/java/com/example/aifinal1/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 21,
+          "index": 3811,
+          "line": 121
+        },
+        "start": {
+          "column": 21,
+          "index": 3811,
+          "line": 121
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AiFinal1/app/src/main/java/com/example/aifinal1/Tts.java",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 792,
+          "line": 27
+        },
+        "start": {
+          "column": 36,
+          "index": 792,
+          "line": 27
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AiFinal1/app/src/main/java/com/example/aifinal1/MainActivity.java"
+}
